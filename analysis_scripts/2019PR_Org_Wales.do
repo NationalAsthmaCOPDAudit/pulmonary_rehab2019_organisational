@@ -9,7 +9,7 @@ capture log close
 log using analysis_logs/2019PR_Org_Wales, smcl replace
 
 
-//English PR Services
+//Welsh PR Services
 
 use builds/PR_org_2019_final, clear
 
